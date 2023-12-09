@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/root/cs552'
+let g:netrw_dirhist_9='/root'
+let g:netrw_dirhist_8='/root/cs552'
+let g:netrw_dirhist_7='/root'
+let g:netrw_dirhist_6='/root/cs552'
+let g:netrw_dirhist_5='/root/.etc'
+let g:netrw_dirhist_4='/root'
+let g:netrw_dirhist_3='/root/.etc'
+let g:netrw_dirhist_2='/root'
+let g:netrw_dirhist_1='/root/cs552/discos'
