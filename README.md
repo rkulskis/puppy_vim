@@ -1,8 +1,7 @@
 # Background
 
 This repo isn't so much a set of code as it is a tutorial on how to get a nice looking vim setup on the puppylinux 2.6.33 VM
-which cannot connect to github.com. There was a few hours of debugging and other things that
-went into this, for example the color themes simply didn't work in the `.vimrc` so instead, I found
+which cannot connect to github.com. There was a decent amount of workarounds that went into this, for example the color themes simply didn't work in the `.vimrc` so instead, I found
 the roxterm metadata version of the theme and imported it through roxterm preferences. Also,
 there was a weird scancode that kept popping up upon using vim, but this is a result of [vim keyprotocol mappings](https://vimhelp.org/options.txt.html#%27keyprotocol%27) with xterm. The first two lines of the `.vimrc` fix this.
 
