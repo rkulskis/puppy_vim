@@ -5,6 +5,9 @@ which cannot connect to github.com. There was a decent amount of workarounds tha
 the roxterm metadata version of the theme and imported it through roxterm preferences. Also,
 there was a weird scancode that kept popping up upon using vim, but this is a result of [vim keyprotocol mappings](https://vimhelp.org/options.txt.html#%27keyprotocol%27) with xterm. The first two lines of the `.vimrc` fix this.
 
+I just decided I wanted to work directly on the VM instead of using a git push script and pulling onto my puppy VM each time, so that's the reason for going the hoops
+and whatnot to get vim on puppy.
+
 # Setup Steps
 
 ---VIM CONFIG---
@@ -24,3 +27,6 @@ there was a weird scancode that kept popping up upon using vim, but this is a re
 top right under color scheme choose `gruvbox`
 
 Enjoy vim on your puppy linux machines!
+
+# Demo
+<img width="1512" alt="Screenshot 2023-12-09 at 6 35 12 PM" src="https://github.com/rkulskis/puppy_vim/assets/91744036/457349b9-28cd-4eca-a960-d36d735d487e">
