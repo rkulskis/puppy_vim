@@ -22,11 +22,12 @@ and whatnot to get vim on puppy.
 9. run `cp .vimrc ~/`
 
 ---ROXTERM CONFIG---
+
 10. run `cp gruvbox ~/.config/roxterm.sourceforge.net/Colours/`
 11. in Roxterm, navigate in the top left `Preferences > Configuration Manager`. This will open a new window, and in the
 top right under color scheme choose `gruvbox`
 
-Enjoy vim on your puppy linux machines!
+Enjoy!
 
 # Demo
 <img width="1512" alt="Screenshot 2023-12-09 at 6 35 12 PM" src="https://github.com/rkulskis/puppy_vim/assets/91744036/457349b9-28cd-4eca-a960-d36d735d487e">
